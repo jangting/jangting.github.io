@@ -1,4 +1,4 @@
--
+---
 title : Install zsh (ubuntu20.04)
 date : 2022-01-27 22:00:00 KST
 categories : [Development, Environemtn]
